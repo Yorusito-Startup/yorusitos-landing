@@ -1,0 +1,30 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 500 500"
+  fill="none"
+  class="hero-image"
+>
+  <rect width="500" height="500" rx="50" fill="#E0E7FF" />
+  <path
+    d="M150 300 C130 250, 270 200, 250 300 C230 400, 130 400, 150 300 Z"
+    fill="#3B82F6"
+  />
+  <circle cx="250" cy="250" r="60" fill="#1E3A8A" />
+  <circle cx="250" cy="250" r="40" fill="#FFFFFF" />
+  <circle cx="250" cy="250" r="20" fill="#1E40AF" />
+  <path
+    d="M200 150 L300 150 L250 100 Z"
+    fill="#9333EA"
+    transform="rotate(20, 250, 150)"
+  />
+  <text
+    x="50%"
+    y="90%"
+    font-size="24"
+    text-anchor="middle"
+    fill="#374151"
+    font-family="Arial, sans-serif"
+  >
+    Crece con Tecnología
+  </text>
+</svg>
